@@ -1,0 +1,20 @@
+.navbar {
+	border-radius: 0px;
+	background: #fff !important;
+	font-family: Roboto, sans-serif;
+	padding: 10px 0;
+	box-shadow: 1px 1px 3px #e0e4e3;
+	background-color: white;
+}
+
+.navbar-dark .navbar-brand{
+	color: #1c5d80;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+	color: #1c5d80;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+	color: #1c5d80;
+}
